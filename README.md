@@ -22,5 +22,7 @@ The project effectively communicated readiness challenges and facilitated collab
 - Analysis: Data cleaning and visualization in Excel.
 - Presentation: Visualized insights using PowerPoint to deliver an accessible and engaging summary of findings.
 
-  ![EMR Utilization]()
+  ![EMR Utilization](results/result_one.jpg)
+
+  ![Viral Load test Request](results/result_two.jpg)
 
